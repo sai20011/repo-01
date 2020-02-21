@@ -1,7 +1,3 @@
-good monring (user1)
-
-good monring (user2)
-
-good afternoon
+good afternoon (user 1)
 good night
 good bye
